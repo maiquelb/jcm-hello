@@ -1,0 +1,3 @@
+mas jcm_hello {
+    agent bob: sample_agent.asl
+}
